@@ -1,0 +1,1 @@
+Total messages received: 34660 across 100 clients in 30s
